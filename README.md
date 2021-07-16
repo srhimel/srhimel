@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/srhimel_" target="blank"><img src="https://img.shields.io/twitter/follow/srhimel_?logo=twitter&style=for-the-badge" alt="srhimel_" /></a> </p>
 
-- 🔭 I’m currently working on **Affliate Marketing**
+- 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **Nuxt JS & React JS**
-
-- 👯 I’m looking to collaborate on [Leauge Of Startupd](https://leagueofstartups.com/)
 
 - 👨‍💻 All of my projects are available at [https://srhimel.com/](https://srhimel.com/)
 
 - 📝 I regularly write articles on [https://srhimel.com/blog](https://srhimel.com/blog)
 
-- 💬 Ask me about **WordPress, Laravel, Sass**
+- 💬 Ask me about **WordPress, Laravel, Sass, JavaScript**
 
 - 📫 How to reach me **himusr@gmail.com**
 
