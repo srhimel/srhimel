@@ -1,5 +1,3 @@
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=srhimel)  
-
 ## Hi there 👋, I'm Shahamar Rahman
 #### Software Engineer (MERN)
 
@@ -11,7 +9,6 @@ I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immers
 - 💬 Ask me about JavaScript, React, NodeJs, Python, Our Solar System and Astronomy
 - 📫 How to reach me: himusr@gmail.com
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I can cover any pop song in the style of Green Day 
 
 ![Profile views](https://gpvc.arturio.dev/srhimel)  
 
