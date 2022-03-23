@@ -47,7 +47,7 @@ I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immers
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/srhimel)
 
 
-<p align="center">
+<p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srhimel&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 </p>
 
