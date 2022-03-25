@@ -48,7 +48,7 @@ I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immers
 
 
 <p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srhimel&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srhimel&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=AC80CC" />
 </p>
 
 <p>
