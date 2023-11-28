@@ -8,8 +8,6 @@ I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strive to build immersi
 - 🌱 I’m currently learning Unit Testing
 - 💬 Full Stack Javascript Developer
 - 📫 How to reach me: himusr@gmail.com
-- 
-![Profile views](https://gpvc.arturio.dev/srhimel)  
 
 ## 🚀 Connect with me
 
