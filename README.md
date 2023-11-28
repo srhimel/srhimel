@@ -1,15 +1,14 @@
 ## Hi there 👋, I'm Shahamar Rahman
 #### Software Engineer (MERN)
 
-I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immersive & beautiful web applications using modern technologies.
+I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strive to build immersive & beautiful web applications using modern technologies.
 
 
-- 🔭 I’m currently working on Devspike
-- 🌱 I’m currently learning React-Native 
-- 💬 Ask me about JavaScript, React, NodeJs, Python, Our Solar System and Astronomy
+- 🔭 I’m currently working on DevsNest as a Shopify App Developer
+- 🌱 I’m currently learning Unit Testing
+- 💬 Full Stack Javascript Developer
 - 📫 How to reach me: himusr@gmail.com
-- 😄 Pronouns: He/Him 
-
+- 
 ![Profile views](https://gpvc.arturio.dev/srhimel)  
 
 ## 🚀 Connect with me
